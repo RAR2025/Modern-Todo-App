@@ -69,7 +69,7 @@ That makes the data model easy to reason about for a small todo app, while still
 ### Clone the repo
 
 ```powershell
-git clone <your-repo-url>
+git clone https://github.com/RAR2025/Modern-Todo-App.git
 cd modern_todo_app
 ```
 
@@ -117,4 +117,4 @@ npm run build
 
 ## Made With Love
 
-Made with love by Ruturaj Rajwade
+Made with ❤️ by Ruturaj Rajwade
